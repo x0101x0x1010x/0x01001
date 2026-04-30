@@ -1,5 +1,6 @@
 {
   "enabled": true,
+  "timeoutMinutes": 2,
   "baseTime": 2,
   "multiplier": 5,
   "maxBanHours": 720
