@@ -1,7 +1,6 @@
-{
-  "enabled": true,
-  "timeoutMinutes": 2,
-  "baseTime": 2,
-  "multiplier": 5,
-  "maxBanHours": 720
+local BanConfig = {
+    enabled = true,
+    baseTime = 2,
+    multiplier = 5,
+    maxBanHours = 720
 }
