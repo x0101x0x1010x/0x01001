@@ -1,6 +1,6 @@
-local BanConfig = {
-    enabled = true,
-    baseTime = 2,
-    multiplier = 5,
-    maxBanHours = 720
+{
+  "enabled": true,
+  "baseTime": 5,
+  "multiplier": 3,
+  "maxBanHours": 168
 }
