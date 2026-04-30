@@ -1,1 +1,6 @@
-
+{
+  "enabled": true,
+  "baseTime": 2,
+  "multiplier": 5,
+  "maxBanHours": 720
+}
